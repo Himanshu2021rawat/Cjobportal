@@ -1,0 +1,32 @@
+[{
+  "job":["IT Sector",false],
+  "number of jobs ": 2458, 
+  "viewed": "1458",
+  "applied": 1112  
+},
+{
+  "job":["Medical Sector",true],
+  "number of jobs ": 1485, 
+  "viewed": "1300",
+  "applied": 1000  
+},
+{
+  "job":["BPO",true],
+  "number of jobs ": 1024, 
+  "viewed": "1000",
+  "applied": 800  
+},
+{
+  "job":["Receptionist",true],
+  
+  "number of jobs ": 858, 
+  "viewed": "500",
+  "applied": 100  
+},
+{
+  "job":["Hotel Sector",false],
+  "number of jobs ": 258, 
+  "viewed": "100",
+  "applied": 10  
+}
+]

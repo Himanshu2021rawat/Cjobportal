@@ -1,0 +1,26 @@
+{
+  "daily": [
+    { "id": 1, "language": "IT Sector", "jobs": 10 },
+    { "id": 2, "language": "Medical Sector", "jobs": 20 },
+    { "id": 3, "language": "BPO", "jobs": 30 },
+    { "id": 4, "language": "Receptionist", "jobs": 40 }
+  ],
+  "weekly": [
+    { "id": 1, "language": "IT Sector", "jobs": 15 },
+    { "id": 2, "language": "Medical Sector", "jobs": 25 },
+    { "id": 3, "language": "BPO", "jobs": 35 },
+    { "id": 4, "language": "Receptionist", "jobs": 25 }
+  ],
+  "monthly": [
+    { "id": 1, "language": "IT Sector", "jobs": 50 },
+    { "id": 2, "language": "Medical Sector", "jobs": 30 },
+    { "id": 3, "language": "BPO", "jobs": 20 },
+    { "id": 4, "language": "Receptionist", "jobs": 50 }
+  ],
+  "yearly": [
+    { "id": 1, "language": "IT Sector", "jobs": 20 },
+    { "id": 2, "language": "Medical Sector", "jobs": 40 },
+    { "id": 3, "language": "BPO", "jobs": 30 },
+    { "id": 4, "language": "Receptionist", "jobs": 10 }
+  ]
+}
